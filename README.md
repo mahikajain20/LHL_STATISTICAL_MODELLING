@@ -103,9 +103,15 @@ Key components of this project include:
 
 ## Results
 
+### API Comparative Analysis Results
+
 For the city of Bhopal that I initially picked, the foursquare results were sparse yet existed. For Yelp, there was no data present. Therefore, the 'coverage' of Yelp in that sense is limited to very few countries and it would be better to use FourSquare for a more global approach. 
 
 For the city of Gent that I later picked, Yelp had many more rows of data and more comprehensive coverage around the area. As the city is densely packed, it did involve a lot more data preprocessing before the analysis for the Yelp data for this city. However, foursquare also provided important insights regarding the characteristics of the POIs. Yelp also had more information in terms of location, contact information, review_counts along with the rating which was important for the analysis. A key advantage of the foursquare data, however, was the popularity parameter. This is key as it examined the foot traffic around POIs for a 6-month period since the data collection, and I believe that is crucial to the analysis for how a bike-sharing platform can use information from venues around the stations to enhance its usage and improve outcomes. 
+
+### Regression Results 
+
+Using a simple linear model, we've found that the average popularity of bars and museums significantly predicts bike rental volumes. Bars show a positive correlation, indicating fewer available bikes at stations near popular bars, likely due to high demand. Conversely, museum popularity negatively correlates, suggesting that more popular museums see fewer empty bike slots, possibly due to steady visitor traffic.
 
 ## Challenges 
 ### Data Collection Challenges
