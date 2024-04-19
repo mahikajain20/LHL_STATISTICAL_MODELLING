@@ -129,12 +129,6 @@ It was challenging to pick the right visualization techniques that condensed a l
 
 ## Future Goals
 
-Certainly! Here's the addition, seamlessly integrated into the "Future Enhancements and Challenges" section of your README documentation:
-
----
-
-## Future Enhancements and Challenges
-
 
 1. **Feature Selection Refinement**
    - Dedicate more time to selecting the most relevant features for the regression model to ensure it accurately captures the essential variables influencing bike station dynamics.
