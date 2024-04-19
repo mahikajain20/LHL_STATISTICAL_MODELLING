@@ -82,7 +82,7 @@ This process is documented in 'yelp_foursquare_eda_final.ipnyb'.
 4. **Documentation**
    - **Detailed Jupyter Notebook:** All processes, from data merging to EDA and database management, are meticulously documented in the Jupyter notebook `joining_data.ipynb`.
 
-For a detailed walkthrough of the analysis and findings, refer to the Jupyter notebook 'joining_data.ipynb' included in this repository.
+For a detailed walkthrough of the analysis and findings, refer to the Jupyter notebook 'joining_data_submission_1.ipynb' included in this repository.
 
 ### Part 4 : Model Building 
 
